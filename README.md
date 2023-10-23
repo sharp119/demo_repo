@@ -31,7 +31,6 @@ This repository is created for educational purposes only. The code herein is des
 - `malicious.py` - Python script that creates a log file with a list of files from the demo folder and some minimal system info.
 - `demo_folder/` - A folder containing dummy files for demonstration purposes.
 - `.asset/` - Folder containing above mentioned files.
-- `.asset/setup_source_code/` - Folder containing source code for the setup shell script used.
 
 
 <a name="seemingly-innocent-section"></a>
@@ -56,12 +55,17 @@ git clone https://github.com/sharp119/demo_repo.git
 cd demo_repo
 ```
 
-**Step 3:** Run setup.sh to install necessary packages and set up the environment
+**Step 3:** Run chmod +x to get necessary permissions
 ```bash
-./setup
+chmod +x setup.sh
 ```
 
-**Step 4:** Once setup is complete, run hello_world.py to print "Hello, World!" to the console
+**Step 4:** Run setup.sh to install necessary packages and set up the environment
+```bash
+./setup.sh
+```
+
+**Step 5:** Once setup is complete, run hello_world.py to print "Hello, World!" to the console
 ```bash
 python3 hello_world.py
 ```
