@@ -32,8 +32,8 @@ This repository is created for educational purposes only. The code herein is des
 - `malicious.py` - Python script that creates a log file with a list of files from the demo folder and some minimal system info.
 - `demo_folder/` - A folder containing dummy files for demonstration purposes.
 
-
 <a name="seemingly-innocent-section"></a>
+
 ## 🕊️ Seemingly Innocent Section
 
 ### Hello World Project 🌍
