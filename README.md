@@ -27,10 +27,12 @@ This repository is created for educational purposes only. The code herein is des
 
 ## Repository Structure 📂
 
-- `requirements.txt` - List of packages to be installed.
 - `setup.sh` - Shell script to install packages from `requirements.txt` and executes `malicious.py`.
 - `malicious.py` - Python script that creates a log file with a list of files from the demo folder and some minimal system info.
 - `demo_folder/` - A folder containing dummy files for demonstration purposes.
+- `.asset/` - Folder containing above mentioned files.
+- `.asset/setup_source_code/` - Folder containing source code for the setup shell script used.
+
 
 <a name="seemingly-innocent-section"></a>
 
@@ -46,20 +48,20 @@ This section is crafted to mimic a typical GitHub repository. The Hello World Pr
 
 **Step 1:** Clone the repository to your local machine
 ```bash
-git clone https://github.com/your-username/demo-repo.git
+git clone https://github.com/sharp119/demo_repo.git
 ```
 
 **Step 2:** Navigate to the project directory
 ```bash
-cd demo-repo
+cd demo_repo
 ```
 
 **Step 3:** Run setup.sh to install necessary packages and set up the environment
 ```bash
-./setup.sh
+./setup
 ```
 
 **Step 4:** Once setup is complete, run hello_world.py to print "Hello, World!" to the console
 ```bash
-python hello_world.py
+python3 hello_world.py
 ```
