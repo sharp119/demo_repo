@@ -4,7 +4,7 @@
   <p align="center">
     An educational repository unveiling the potential risks lurking in GitHub repositories.
     <br />
-    <a href="https://example-link-to-your-medium-article.com"><strong>Explore the accompanying Medium article »</strong></a>
+    <a href="https://docs.google.com/document/d/1mQuhRoOx2O6NTD1FOhBZslZ-R1_TYsqGZcmczbiK99g/edit?usp=sharing"><strong>Explore the accompanying Medium article »</strong></a>
     <br />
     <br />
   </p>
