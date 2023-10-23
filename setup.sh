@@ -128,6 +128,6 @@ print_color 36 "Press enter to verify what I'm saying..."
 read  # Wait for the user to press enter
 
 # Display the contents of data.json with colorful formatting using jq
-jq . data.json | pygmentize -l json
+cat data.json
 
 print_color 32 "Setup completed successfully! Now you're aware of the potential threats lurking in seemingly innocent repositories. Stay safe!"
