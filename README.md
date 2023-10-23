@@ -12,10 +12,10 @@
 
 ## Table of Contents
 
-- [Disclaimer](#warning-disclaimer)
-- [Repository Structure 📂](#repository-structure)
-- [Seemingly Innocent Section](#seemingly-innocent-section)
-- [Getting Started](#getting-started)
+- [Disclaimer](#-disclaimer)
+- [Repository Structure](#repository-structure-)
+- [Seemingly Innocent Section](#️-seemingly-innocent-section)
+- [Getting Started](#-getting-started)
 
 ## :warning: Disclaimer
 
