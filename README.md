@@ -41,6 +41,7 @@ This section is crafted to mimic a typical GitHub repository. The Hello World Pr
 git clone https://github.com/your-username/demo-repo.git
 
 **Step 2:** Navigate to the project directory
+<<<<<<< HEAD
 ```bash
 cd demo-repo
 
@@ -50,4 +51,15 @@ cd demo-repo
 
 **Step 4:** Once setup is complete, run hello_world.py to print "Hello, World!" to the console
 ```bash
+=======
+```
+cd demo-repo
+
+**Step 3:** Run setup.sh to install necessary packages and set up the environment
+```
+./setup.sh
+
+**Step 4:** Once setup is complete, run hello_world.py to print "Hello, World!" to the console
+```
+>>>>>>> c9af8d9eaa407ff4fad50a55bcc149aca1daf8f8
 python hello_world.py
