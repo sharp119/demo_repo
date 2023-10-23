@@ -12,14 +12,18 @@
 
 ## Table of Contents
 
-- [Disclaimer](#-disclaimer)
-- [Repository Structure](#repository-structure-)
-- [Seemingly Innocent Section](#️-seemingly-innocent-section)
-- [Getting Started](#-getting-started)
+- [Disclaimer](#disclaimer)
+- [Repository Structure](#repository-structure)
+- [Seemingly Innocent Section](#️seemingly-innocent-section)
+- [Getting Started](#getting-started)
 
-## ⚠️ Disclaimer
+<a name="disclaimer"></a>
+
+## :warning: Disclaimer
 
 This repository is created for educational purposes only. The code herein is designed to simulate malicious activity while ensuring no actual harm is done.
+
+<a name="repository-structure"></a>
 
 ## Repository Structure 📂
 
@@ -28,13 +32,17 @@ This repository is created for educational purposes only. The code herein is des
 - `malicious.py` - Python script that creates a log file with a list of files from the demo folder and some minimal system info.
 - `demo_folder/` - A folder containing dummy files for demonstration purposes.
 
+<a name="seemingly-innocent-section"></a>
+
 ## 🕊️ Seemingly Innocent Section
 
 ### Hello World Project 🌍
 
 This section is crafted to mimic a typical GitHub repository. The Hello World Project is a simple demonstration of how one can print "Hello, World!" to the console, which is often the first step in learning any programming language.
 
-#### 🚀 Getting Started
+<a name="getting-started"></a>
+
+## 🚀 Getting Started
 
 **Step 1:** Clone the repository to your local machine
 ```bash
