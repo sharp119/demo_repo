@@ -17,7 +17,7 @@
 - [Seemingly Innocent Section](#️-seemingly-innocent-section)
 - [Getting Started](#-getting-started)
 
-## :warning: Disclaimer
+## ⚠️ Disclaimer
 
 This repository is created for educational purposes only. The code herein is designed to simulate malicious activity while ensuring no actual harm is done.
 
