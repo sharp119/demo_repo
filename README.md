@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sharp119/demo_repo/blob/main/asset/gdsc_adgitm_logo.jpg" alt="Logo" width="80" height="80">
+  <img src="https://github.com/sharp119/demo_repo/blob/main/.asset/gdsc_adgitm_logo.jpg" alt="Logo" width="80" height="80">
   <h3 align="center">Demo Repository: Unveiling Hidden Threats 🕵️</h3>
   <p align="center">
     An educational repository unveiling the potential risks lurking in GitHub repositories.
